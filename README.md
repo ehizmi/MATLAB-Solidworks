@@ -4,3 +4,4 @@ This project combines the use of MATLAB and Solidworks in order to create a comp
 The simulation data was then obtained through multiple different variable values to create 7 points.
 MATLAB was used to do all of the calculations and create a bezier curve fit for the data points. 
 The reason for this project is to learn more about MATLAB functions including parameters, curve fitting, and graphing. 
+The files included are example images of the part and graph produced from the MATLAB file, as well as a file that serves as an example of one set of the code.
